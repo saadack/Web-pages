@@ -1,0 +1,22 @@
+//Defines particular version of html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skeleton</title>
+</head>
+<body>
+
+</body>
+</html>
+
+Quick review-
+
+1-DOCTYPE is a document declaration that describes particular htm version used.
+
+2-A boilerplate can be divided into header and footer which then require EJS tags to use in our specific templates.
+
+3-Meta tags describes a peice of content present in the page, it was widely used with search engines.
+
+
