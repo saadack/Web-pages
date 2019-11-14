@@ -1,0 +1,21 @@
+MEAN- MongoDB, ExpressJS, AngularJS, NodeJS
+
+MongoDB- MongoDB is a non relational database which stores data in objects 
+and has a unique id for each piece of dataand is flexible to use.
+MongoDB is locally connected to a system and is easy to access.
+
+ExpressJS- ExpressJS is a web app framework which enables backend functions 
+to our plain JS files such as it opens a server based on RESt concept.
+Representational state transfer(REST) is a way to design structure of an 
+API(Application programming interface). It is naming convention for a specific
+url which allows expressJS to process a particular request.
+
+AngularJS - AngularJS enables extra functions for HTML attributes such as 
+to use boolean expressions inside Document Object model(DOM).
+
+NodeJS- NodeJS can be used on any platform and used to develop server side 
+and network applications
+
+Summary-
+Developing an application using MEAN is to use AngularJS as front-end framework
+and NodeJS as a backend mean while ExpressJs as a server side and MongoDB to store data
