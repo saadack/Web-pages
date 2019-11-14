@@ -1,0 +1,30 @@
+Setting up our own environment is easy in windows as well on other platforms. 
+Download these tools- 
+MongoDB
+from here https://www.mongodb.com/download-center/community
+
+NodeJS
+https://nodejs.org/en/
+
+GitBash or windows power shell
+https://gitforwindows.org/
+
+Open terminal and type ls to list working directory change directory with 
+"cd nameOfTheDirectory" or "mkdir newNameOfDir" to make a directory for your 
+application and then "cd nameOfTheDirectory". Now in the terminal type "npm init"
+(npm is a node package manager and init refers to initialization of the package)
+
+In our case we are creating a package.json file which has most common items and
+the process is very simple as it automates suggestions 
+So if you can change package name, entry point, description, author, or git rep
+or else just feel free to press enter.
+
+now that out package.json is created we can freely install some more packages such as
+express, mongoose, body-parser, ejs, angular, and angular-route
+json file you created
+syntax will be npm install express mongoose body-parser ejs angular angular-route --save
+
+now that out dependencies are install we can create of entry point that can be any preferable
+name with extention of js
+
+
